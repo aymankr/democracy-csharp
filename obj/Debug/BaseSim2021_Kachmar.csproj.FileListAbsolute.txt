@@ -1,0 +1,50 @@
+\\iut.bx1\Etudiants\Home\aykachmar\Downloads\BaseSim2021_initial\BaseSim2021\bin\Debug\BaseSim2021.exe.config
+\\iut.bx1\Etudiants\Home\aykachmar\Downloads\BaseSim2021_initial\BaseSim2021\bin\Debug\BaseSim2021.exe
+\\iut.bx1\Etudiants\Home\aykachmar\Downloads\BaseSim2021_initial\BaseSim2021\bin\Debug\BaseSim2021.pdb
+\\iut.bx1\Etudiants\Home\aykachmar\Downloads\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021_Kachmar.csprojAssemblyReference.cache
+\\iut.bx1\Etudiants\Home\aykachmar\Downloads\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021.DifficultyView.resources
+\\iut.bx1\Etudiants\Home\aykachmar\Downloads\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021.GameView.resources
+\\iut.bx1\Etudiants\Home\aykachmar\Downloads\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021.Properties.Resources.resources
+\\iut.bx1\Etudiants\Home\aykachmar\Downloads\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021_Kachmar.csproj.GenerateResource.cache
+\\iut.bx1\Etudiants\Home\aykachmar\Downloads\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021_Kachmar.csproj.CoreCompileInputs.cache
+\\iut.bx1\Etudiants\Home\aykachmar\Downloads\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021.exe
+\\iut.bx1\Etudiants\Home\aykachmar\Downloads\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021.pdb
+C:\Users\A\Desktop\S2\IHM\BaseSim2021_initial\BaseSim2021\bin\Debug\BaseSim2021.exe.config
+C:\Users\A\Desktop\S2\IHM\BaseSim2021_initial\BaseSim2021\bin\Debug\BaseSim2021.exe
+C:\Users\A\Desktop\S2\IHM\BaseSim2021_initial\BaseSim2021\bin\Debug\BaseSim2021.pdb
+C:\Users\A\Desktop\S2\IHM\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021_Kachmar.csprojAssemblyReference.cache
+C:\Users\A\Desktop\S2\IHM\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021.DifficultyView.resources
+C:\Users\A\Desktop\S2\IHM\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021.GameView.resources
+C:\Users\A\Desktop\S2\IHM\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021.Properties.Resources.resources
+C:\Users\A\Desktop\S2\IHM\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021_Kachmar.csproj.GenerateResource.cache
+C:\Users\A\Desktop\S2\IHM\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021_Kachmar.csproj.CoreCompileInputs.cache
+C:\Users\A\Desktop\S2\IHM\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021.exe
+C:\Users\A\Desktop\S2\IHM\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021.pdb
+\\iut.bx1\Etudiants\Home\aykachmar\Downloads\sem\BaseSim2021_initial\BaseSim2021\bin\Debug\BaseSim2021.exe.config
+\\iut.bx1\Etudiants\Home\aykachmar\Downloads\sem\BaseSim2021_initial\BaseSim2021\bin\Debug\BaseSim2021.exe
+\\iut.bx1\Etudiants\Home\aykachmar\Downloads\sem\BaseSim2021_initial\BaseSim2021\bin\Debug\BaseSim2021.pdb
+\\iut.bx1\Etudiants\Home\aykachmar\Downloads\sem\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021_Kachmar.csprojAssemblyReference.cache
+\\iut.bx1\Etudiants\Home\aykachmar\Downloads\sem\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021.DifficultyView.resources
+\\iut.bx1\Etudiants\Home\aykachmar\Downloads\sem\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021.GameView.resources
+\\iut.bx1\Etudiants\Home\aykachmar\Downloads\sem\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021.Properties.Resources.resources
+\\iut.bx1\Etudiants\Home\aykachmar\Downloads\sem\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021_Kachmar.csproj.GenerateResource.cache
+\\iut.bx1\Etudiants\Home\aykachmar\Downloads\sem\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021_Kachmar.csproj.CoreCompileInputs.cache
+\\iut.bx1\Etudiants\Home\aykachmar\Downloads\sem\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021.exe
+\\iut.bx1\Etudiants\Home\aykachmar\Downloads\sem\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021.pdb
+C:\Users\A\Desktop\S2\IHM\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021.ParametersPolicy.resources
+C:\Users\A\Desktop\S2\IHM\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021.ValueExplorer.resources
+\\iut.bx1\Etudiants\Home\aykachmar\Downloads\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021.ParametersPolicy.resources
+\\iut.bx1\Etudiants\Home\aykachmar\Downloads\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021.ValueExplorer.resources
+C:\Users\ay\Desktop\Nouveau dossier\Cours\S2\IHM\projetFini\BaseSim2021_initial\BaseSim2021\bin\Debug\BaseSim2021.exe.config
+C:\Users\ay\Desktop\Nouveau dossier\Cours\S2\IHM\projetFini\BaseSim2021_initial\BaseSim2021\bin\Debug\BaseSim2021.exe
+C:\Users\ay\Desktop\Nouveau dossier\Cours\S2\IHM\projetFini\BaseSim2021_initial\BaseSim2021\bin\Debug\BaseSim2021.pdb
+C:\Users\ay\Desktop\Nouveau dossier\Cours\S2\IHM\projetFini\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021_Kachmar.csproj.AssemblyReference.cache
+C:\Users\ay\Desktop\Nouveau dossier\Cours\S2\IHM\projetFini\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021.DifficultyView.resources
+C:\Users\ay\Desktop\Nouveau dossier\Cours\S2\IHM\projetFini\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021.GameView.resources
+C:\Users\ay\Desktop\Nouveau dossier\Cours\S2\IHM\projetFini\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021.ParametersPolicy.resources
+C:\Users\ay\Desktop\Nouveau dossier\Cours\S2\IHM\projetFini\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021.Properties.Resources.resources
+C:\Users\ay\Desktop\Nouveau dossier\Cours\S2\IHM\projetFini\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021.ValueExplorer.resources
+C:\Users\ay\Desktop\Nouveau dossier\Cours\S2\IHM\projetFini\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021_Kachmar.csproj.GenerateResource.cache
+C:\Users\ay\Desktop\Nouveau dossier\Cours\S2\IHM\projetFini\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021_Kachmar.csproj.CoreCompileInputs.cache
+C:\Users\ay\Desktop\Nouveau dossier\Cours\S2\IHM\projetFini\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021.exe
+C:\Users\ay\Desktop\Nouveau dossier\Cours\S2\IHM\projetFini\BaseSim2021_initial\BaseSim2021\obj\Debug\BaseSim2021.pdb
