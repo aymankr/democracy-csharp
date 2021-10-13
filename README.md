@@ -8,7 +8,7 @@ The professor drew inspiration from the game Democracy and provided as a basis o
 
 ![example0](example0.png)
 
-![example0](example1.png)
+![example1](example1.png)
 
 There are new possibilities, you can:
 
